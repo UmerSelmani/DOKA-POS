@@ -1,0 +1,8 @@
+{
+  "$schema": "https://pages.cloudflare.com/schema.json",
+  "build": {
+    "build_command": "npm install && npm run build",
+    "destination": "dist",
+    "root_dir": ""
+  }
+}
